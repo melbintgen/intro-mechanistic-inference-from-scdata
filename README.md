@@ -70,6 +70,7 @@ juliaup status
 ```
 
 `julia --version` should report a `1.13` or `1.12` release.
+
 ---
 
 ### 2. Install Julia Packages
